@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /home/tuvis-ideapad/Desktop/tuvis/tuvis_dvc/dvc_registry_repo
